@@ -1,0 +1,71 @@
+URL запроса:
+https://ok.i-teka.kz/livewire/message/registration.user-data-form-payment-type.user-data-form
+Метод запроса:
+POST
+Код статуса:
+200 OK
+Удаленный адрес:
+185.234.114.3:443
+Правило для URL перехода:
+strict-origin-when-cross-origin
+cache-control:
+max-age=0, must-revalidate, no-cache, no-store, private
+connection:
+keep-alive
+content-encoding:
+gzip
+content-type:
+application/json
+date:
+Mon, 24 Feb 2025 15:44:43 GMT
+expires:
+Fri, 01 Jan 1990 00:00:00 GMT
+pragma:
+no-cache
+server:
+nginx
+set-cookie:
+XSRF-TOKEN=eyJpdiI6InBQUW1sWWMxZkx0TEY0NDYrK3F5R1E9PSIsInZhbHVlIjoibEhvTGJreWo2b1F6R1JnVTJjVEFWQ2lVM3R5YzNQRWRPZGFocXJUVUdjZVJmMTNTRHV2bXZpZVZadnNnWm1nRCtkcWxtaW5JMS9yUnJieVFVQzNGbFR1LzM1YTF6NitMMU5ibkkrSVE0RjJGSmZTQTZxb1k1V1A5TUxmMUhEdkQiLCJtYWMiOiIwYzZiZDhlZTg2ZmYyYmNhOWY1MjQ5NTNhNTVhY2RmOGYzMzM1MjY4NTI3MGJkMWUxYTQwNmQ0MGRhODdkYzM3IiwidGFnIjoiIn0%3D; expires=Mon, 24-Feb-2025 17:44:43 GMT; Max-Age=7200; path=/
+set-cookie:
+laravel_session=FJpxnheHwHyr08GjSxV2c04J1qiLyYEdWZDW6MJc; expires=Mon, 24-Feb-2025 17:44:43 GMT; Max-Age=7200; path=/; httponly
+transfer-encoding:
+chunked
+accept:
+text/html, application/xhtml+xml
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+connection:
+keep-alive
+content-length:
+984
+content-type:
+application/json
+cookie:
+laravel_session=FJpxnheHwHyr08GjSxV2c04J1qiLyYEdWZDW6MJc; _ym_uid=1740411824530677689; _ym_d=1740411824; _gcl_au=1.1.533264195.1740411824; _ym_isad=2; _ga=GA1.2.843541992.1740411824; _gid=GA1.2.1694205852.1740411824; _gat_UA-127836386-1=1; _ym_visorc=w; _ga_WSGX8QY4YE=GS1.2.1740411824.1.1.1740411859.25.0.0; activity=7|50; XSRF-TOKEN=eyJpdiI6IjR1UERmWS83Sk1pUjF6VkhnWTJRZnc9PSIsInZhbHVlIjoiYWczbHBFL2xZUDlPTDU2dFRXNGMwLzlUcmkzRmFyUWoyZlBUUkJKd0phSzVTbzRCeENuWDVFYmxXbzRWV3RjTmRWcEpVRGw0b0FtYUhmRzlOTHRPeVNZSWRJVzBCdzhZWHF2djFiRlkrS3FxNUxVVnZzY0JuZXhWNkcvT3dUaFYiLCJtYWMiOiJiOWQyZThkODliZTQ1NTY2YzBlMDk2NWRjZWEyNDJiNjUzMWE2M2RkZDkxOGRlZmMzNDE5ODFiYjQ1MTFjNjU3IiwidGFnIjoiIn0%3D
+host:
+ok.i-teka.kz
+origin:
+https://ok.i-teka.kz
+referer:
+https://ok.i-teka.kz/appointment/3147/user-data-form
+sec-ch-ua:
+"Opera GX";v="116", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition std-2)
+x-csrf-token:
+dqyNqDxe9R1Fb4t0shOSdkfQOyTidf8LJh2NaxuY
+x-livewire:
+true
+

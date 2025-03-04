@@ -1,0 +1,76 @@
+URL запроса:
+https://www.monamie.kz/bitrix/services/main/ajax.php?mode=class&c=itconstruct%3Auser.auth.manager&action=processRegistration
+Метод запроса:
+POST
+Код статуса:
+200 OK
+Удаленный адрес:
+109.233.109.147:443
+Правило для URL перехода:
+strict-origin-when-cross-origin
+cache-control:
+no-store, no-cache, must-revalidate
+connection:
+keep-alive
+content-encoding:
+gzip
+content-type:
+application/json; charset=UTF-8
+date:
+Mon, 24 Feb 2025 18:47:51 GMT
+expires:
+Thu, 19 Nov 1981 08:52:00 GMT
+p3p:
+policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+pragma:
+no-cache
+server:
+nginx
+transfer-encoding:
+chunked
+x-content-type-options:
+nosniff
+x-frame-options:
+ALLOW-FROM https://m.devcrm.monamie.kz
+x-frame-options:
+ALLOW-FROM https://monamie-mobile.kz
+x-powered-cms:
+Bitrix Site Manager (a3f4df02b47ab2536aefaf45eb21ba32)
+x-xss-protection:
+1; mode=block
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+bx-ajax:
+true
+connection:
+keep-alive
+content-length:
+326
+content-type:
+application/x-www-form-urlencoded
+cookie:
+PHPSESSID=ffq7tg37ots6h74fq7rtq034pf; MON_PROD_SALE_UID=404502779; gtm_name=; _gcl_gs=2.1.k1$i1740422782$u219405317; _gcl_au=1.1.573273289.1740422785; _gid=GA1.2.624206222.1740422786; _gac_UA-127033771-3=1.1740422786.CjwKCAiAzvC9BhADEiwAEhtlNydaKpwSw2qSMGF8Sk9yNWawiV1x1DHY3SvP63si41a4n8lQhq9mWxoC0BwQAvD_BwE; _ym_uid=1740422786916366448; _ym_d=1740422786; BX_USER_ID=004ab78acdabee182d114d0c174b61e0; _ym_isad=2; _ym_visorc=b; _fbp=fb.1.1740422786005.886292919990346828; sc=32C5CC72-8E2A-9BC8-C325-951F40F8795E; _tt_enable_cookie=1; _ttp=01JMWMGB48FR276VRB9WX867YV_.tt.1; CITY_CODE=ALMATY; CITY_ID=0000000278; CITY_ID_TABLE=17; CITY_NAME=%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B; _gac_UA-127033771-1=1.1740422795.CjwKCAiAzvC9BhADEiwAEhtlNydaKpwSw2qSMGF8Sk9yNWawiV1x1DHY3SvP63si41a4n8lQhq9mWxoC0BwQAvD_BwE; _gcl_aw=GCL.1740422835.CjwKCAiAzvC9BhADEiwAEhtlNydaKpwSw2qSMGF8Sk9yNWawiV1x1DHY3SvP63si41a4n8lQhq9mWxoC0BwQAvD_BwE; _ga=GA1.2.808155160.1740422786; _ga_C7EJGN5N1Z=GS1.1.1740422785.1.1.1740422869.37.0.0
+host:
+www.monamie.kz
+origin:
+https://www.monamie.kz
+referer:
+https://www.monamie.kz/brands/coach_id236289/parfyumeriya/dlya_nee_1/
+sec-ch-ua:
+"Opera GX";v="116", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition std-2)

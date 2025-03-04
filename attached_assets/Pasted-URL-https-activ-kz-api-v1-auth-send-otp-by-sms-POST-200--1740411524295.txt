@@ -1,0 +1,91 @@
+URL запроса:
+https://activ.kz/api/v1/auth/send-otp-by-sms
+Метод запроса:
+POST
+Код статуса:
+200 OK
+Удаленный адрес:
+2.78.58.139:443
+Правило для URL перехода:
+strict-origin-when-cross-origin
+cache-control:
+no-cache, no-store, max-age=0, must-revalidate
+content-type:
+application/json
+date:
+Mon, 24 Feb 2025 15:38:26 GMT
+expires:
+0
+pragma:
+no-cache
+server:
+nginx/1.18.0
+strict-transport-security:
+max-age=31536000 ; includeSubDomains
+vary:
+Origin
+vary:
+Access-Control-Request-Method
+vary:
+Access-Control-Request-Headers
+x-content-type-options:
+nosniff
+x-frame-options:
+DENY
+x-request-id:
+a1d02a5273dec4c08af33bf9dee804d7
+x-xss-protection:
+1; mode=block
+:authority:
+activ.kz
+:method:
+POST
+:path:
+/api/v1/auth/send-otp-by-sms
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+ru
+authorization:
+Basic V0VCOg==
+content-length:
+43
+content-type:
+application/json
+cookie:
+uuid=0775e034-9068-4af1-aed9-ab09f7cd022a; platform=web; showNavBarOnWebview=false; brand=activ; locale=ru; NEXT_LOCALE=ru; _ga_ZYVHT4PLVE=GS1.1.1740411478.1.0.1740411478.0.0.0; _gid=GA1.2.1343617251.1740411478; _gat_UA-185861946-1=1; _ga=GA1.1.1633308153.1740411478; _ym_uid=1740411479247276246; _ym_d=1740411479; _ym_isad=2; _ym_visorc=b; region=%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B; region_id=50000; city_id=50000; region_cover_id=40000; region_or_city_id=47; loyalty_city=1; _ga_9Y0RS7PN38=GS1.1.1740411478.1.1.1740411497.41.0.0; _ga_KEY1YFYT2E=GS1.1.1740411478.1.1.1740411497.0.0.0; _ga_D9MDX8H3PD=GS1.1.1740411478.1.1.1740411497.0.0.0
+origin:
+https://activ.kz
+priority:
+u=1, i
+referer:
+https://activ.kz/become-subscriber
+sec-ch-ua:
+"Opera GX";v="116", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+traceparent:
+00-84e81dd7a2a9b403eb11d65b56b12b4a-e9736ff7600468a8-01
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0 (Edition std-2)
+x-current-customer-msisdn:
+x-customer-operator-type:
+ACTIV
+x-device-name:
+Windows: Opera
+x-device-uuid:
+0775e034-9068-4af1-aed9-ab09f7cd022a
+x-platform:
+WEB
