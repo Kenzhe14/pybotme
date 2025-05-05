@@ -10,7 +10,7 @@ load_dotenv()
 
 TOKEN = os.getenv("TOKEN")
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME")  # Укажите имя пользователя администратора
-ADMIN_ID = int(os.getenv("ADMIN_ID"))  # Укажите Telegram ID администратора
+ADMIN_ID = (os.getenv("ADMIN_ID"))  # Укажите Telegram ID администратора
 SUBSCRIPTIONS_FILE = "subscriptions.json"
 
 bot = telebot.TeleBot(TOKEN)
